@@ -35,7 +35,6 @@ Dataset link: https://www.kaggle.com/datasets/tevecsystems/retail-sales-forecast
 ---
 
 ## 📊 Key Findings (Summary)
-Include a few bullets like:
 - Weighted Moving Average (WMA) produced lower Mean Absolute Error compared to Simple Moving Average (SMA).
 - Recent sales fluctuations were better captured by assigning higher weights to recent observations.
 - Both models indicated immediate upward trends followed by decrease in sales, but WMA responded more sensitively to the previous weeks' fluctuations.
