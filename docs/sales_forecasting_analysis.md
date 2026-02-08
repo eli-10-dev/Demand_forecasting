@@ -1,6 +1,3 @@
-- What is the difference between the averages sales of weekdays and weekends
-	- ![image.png](../assets/image_1770348207573_0.png)
-	- The average sales on weekends are 40.54 units higher on weekends, which is approximately 51% higher than the weekday average.
 - Monthly trends
 	- Graph
 		- ![image.png](../assets/image_1770348276187_0.png)
