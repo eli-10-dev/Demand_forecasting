@@ -13,10 +13,10 @@ sql/ - SQL scripts used for data aggregation and preparation
 
 ## 📁 Project Overview
 This project focuses on forecasting future sales using historical transaction data. The objective was to aggregate sales data, apply forecasting techniques, and evaluate model accuracy to determine the most reliable forecasting approach.
-
 The analysis compares different moving average methods to understand how recent sales trends influence future predictions.
 
 Dataset link: https://www.kaggle.com/datasets/tevecsystems/retail-sales-forecasting
+
 ---
 
 ## 🎯 Core Objectives
