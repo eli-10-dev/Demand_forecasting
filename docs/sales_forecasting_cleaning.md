@@ -1,8 +1,5 @@
 - Data type changes
 	- Date (varchar -> date)
-		- ALTER TABLE food_sales
-		  ALTER COLUMN date TYPE DATE
-		  USING TO_DATE(date, 'YYYY-MM-DD');
 	- Data type of column date was changed from varchar to date for proper sorting later in the analysis.
 - Standardizing values
 	- No standardization was done, all values were numerical and did not need to be manipulated.
